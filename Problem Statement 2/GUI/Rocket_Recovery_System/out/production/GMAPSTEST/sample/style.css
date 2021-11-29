@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+.chart-series-line{
+    -fx-stroke-width: 2px;
+}
+.default-color0.chart-series-line{-fx-stroke: #00FF00;}
+.default-color0.chart-line-symbol{-fx-background-color: #00FF00, #ffffff;}
+.default-color1.chart-series-line{-fx-stroke: #FF0000;}
+.default-color1.chart-line-symbol{-fx-background-color: #FF0000,#ffffff}
