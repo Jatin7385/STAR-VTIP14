@@ -1,4 +1,5 @@
 # STAR-VTIP14
+![This is an image](https://www.starorbitals.com/wp-content/uploads/2020/09/STAR-Orbitals200-200.png)
 # Introduction
 This repository contains the work I did during my time at training and internship program at STAR ORBITALS.
 
